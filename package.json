@@ -1,7 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "0.0.1",
 	"author": "Adam Hao",
-	"description": "To finish the FCC backend Development challenges",
+	"description": "To finish the FCC backend development challenges",
+	"keywords": ["freecodecamp", "bakcend", "exercise"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
